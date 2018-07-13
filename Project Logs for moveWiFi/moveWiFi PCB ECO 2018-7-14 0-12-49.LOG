@@ -1,0 +1,11 @@
+Added Component: Designator=U3(MSOP-10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=UD+ Pin=U3-1
+Added Pin To Net: NetName=UD- Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=NetC?_1 Pin=U3-7
+Added Pin To Net: NetName=RXD0 Pin=U3-8
+Added Pin To Net: NetName=TXD0 Pin=U3-9
+Added Pin To Net: NetName=NetC11_1 Pin=U3-10
+Added Member To Class: ClassName=moveWiFi Member=Component U3 CH340E
+Added Room: Name=moveWiFi
