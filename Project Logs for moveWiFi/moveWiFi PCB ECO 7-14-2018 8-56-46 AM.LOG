@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LAN_RX+ Pin=J17-1
+Added Component: Designator=J17(PAD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LAN_RX+ Pin=J17-1
+Added Room: Name=moveWiFi

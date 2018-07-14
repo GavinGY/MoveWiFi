@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LAN_RX- Pin=U1-29
+Added Pin To Net: NetName=LAN_RX+ Pin=U1-29
+Added Member To Class: ClassName=moveWiFi Member=Component J17 PAD
+Added Room: Name=moveWiFi
