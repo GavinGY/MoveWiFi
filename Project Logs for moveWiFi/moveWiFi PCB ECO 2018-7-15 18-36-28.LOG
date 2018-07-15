@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=J13-1
+Removed Pin From Net: NetName=GND Pin=J14-1
+Removed Member From Class: ClassName=moveWiFi Member=J13
+Removed Member From Class: ClassName=moveWiFi Member=J14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Added Component: Designator=J4(Power)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC?_1 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC15_1
+Added Member To Class: ClassName=moveWiFi Member=Component J4 Power
+Added Room: Name=moveWiFi

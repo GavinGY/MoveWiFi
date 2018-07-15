@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=BAT Old Footprint=POWER New Footprint=Power 2
+Change Component Designator: OldDesignator=5V NewDesignator=J13
+Change Component Designator: OldDesignator=BAT NewDesignator=J2
+Change Component Designator: OldDesignator=GND NewDesignator=J14
+Added Member To Class: ClassName=moveWiFi Member=Component C2 Cap Semi
+Added Member To Class: ClassName=moveWiFi Member=Component U2 IP5306
+Added Room: Name=moveWiFi

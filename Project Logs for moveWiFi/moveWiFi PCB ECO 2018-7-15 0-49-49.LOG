@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=J13 NewDesignator=13
+Added Member To Class: ClassName=moveWiFi Member=Component J13 PAD
+Added Member To Class: ClassName=moveWiFi Member=Component U1 NanoPi NEO Core
+Added Room: Name=moveWiFi
