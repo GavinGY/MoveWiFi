@@ -1,0 +1,18 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~116|Field=Value~String~Value~81|Field=Footprint~String~Footprint~128|Field=Quantity~Integer~Quantity~68|Field=Designator~String~Designator~141|Field=DesignItemId~String~DesignItemId~97|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~moveWiFi.PrjPCB|ReportField=ProjectFullPath~D:\Work\AltiumDesigner\MoveWiFi\moveWiFi.PrjPCB|ReportField=Title~Bill of Materials For Project [moveWiFi.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~11:19:49 AM|ReportField=ReportDate~7/16/2018|ReportField=ReportDateTime~7/16/2018 11:19:49 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~32|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~2cd3bde6a3a1db324242dfe7265ee7f35bdc58ff|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~7/16/2018|ReportField=CurrentTime~10:50:52 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Work\AltiumDesigner\MoveWiFi\moveWiFi.SchDoc|ReportField=DocumentName~moveWiFi.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~7/16/2018|ReportField=Organization~|ReportField=ProjectName~moveWiFi.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~moveWiFi.PrjPCB|ReportField=DataSourceFullPath~D:\Work\AltiumDesigner\MoveWiFi\moveWiFi.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Cap Pol2|220uF|C7343|1|C15|Cap Pol2
+2|Cap Semi|0.1uF|C0603|2|C11, C12|Cap Semi
+3|Cap Semi|10uF|C0805|4|C1, C2, C6, C7|Cap Semi
+4|Cap Semi|22uF|C0805|3|C3, C4, C5|Cap Semi
+5|CH340E||MSOP-10|1|U3|CH340E
+6|Inductor|1uH|L0630|1|L1|Inductor
+7|IP5306||eSOP8|1|U2|IP5306
+8|LED2||R0603|1|D1|LED2
+9|MicroUSB||MicroUSB|1|I1|MicroUSB
+10|NanoPi NEO Core|||1|U1|NanoPi_NEO_Core
+11|PAD||PAD|8|13, J10, J11, J12, J15, J16, J17, J18|PAD
+12|Power||Power 2|2|J2, J4|Power
+13|Res2|10K|R0603|1|R1|Res2
+14|Res2|2R|R0603|2|R3, R4|Res2
+15|RJ45-1||RG45-3|1|J3|RJ45-3
+16|sw-key-lie||Key_lie|1|S2|sw-key-lie
+17|Switch||SwitchA2|1|S1|Switch2
